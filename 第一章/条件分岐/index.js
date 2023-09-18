@@ -218,3 +218,20 @@ function filterEven(numbers) {
 }
 const array20 = [1, 5, 10, 15, 20];
 console.log(filterEven(array)); // => [10, 20]
+
+//filtterを使った場合
+function isEven(num) {
+    return num % 2 === 0;   //偶数ならtrueを返す
+}
+// `numbers`に含まれている偶数だけを取り出す
+function filterEven(numbers) {
+    return numbers.filter(isEven);
+}
+const array21 = [1, 5, 10, 15, 20];
+console.log(filterEven(array21)); // => [10, 20]
+
+
+const array22 = [1, 2, 3];
+for (const value of array) {
+    console.log(value);
+}
