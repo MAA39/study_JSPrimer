@@ -38,7 +38,7 @@ memoするのはいいけど後で読み返せないので
 - [x] 文字列とUnicode　（流し読み
 - [x] ラッパーオブジェクト
 - [x] 関数とスコープ　：　https://jsprimer.net/basic/function-scope/#dynamic-scope
-- [ ] 関数とthis
+- [ ] 関数とthis : https://jsprimer.net/basic/function-this/#type-of-method
 - [ ] クラス
 - [ ] 例外処理
 - [ ] 非同期処理:Promise/Async Function
