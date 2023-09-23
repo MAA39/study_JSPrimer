@@ -5,11 +5,6 @@ https://jsprimer.net/intro/
 memoするのはいいけど後で読み返せないので
 いったん通しで読む or 使いそうなところだけスニペットするような使い方にする。
 
-2023/09/15 : 関数と宣言まで進めた。
-2023/09/16 : 文と式まで進めた。
-2023/09/17 : 条件分岐まで進めた。
-2023/09/18 : 配列まで進めた。
-
 
 - [ ] not checked
 - [x] checked
@@ -37,11 +32,11 @@ memoするのはいいけど後で読み返せないので
 - [x] 文字列
 - [x] 文字列とUnicode　（流し読み
 - [x] ラッパーオブジェクト
-- [x] 関数とスコープ　：　https://jsprimer.net/basic/function-scope/#dynamic-scope
-- [ ] 関数とthis : https://jsprimer.net/basic/function-this/#type-of-method
-- [ ] クラス
-- [ ] 例外処理
-- [ ] 非同期処理:Promise/Async Function
+- [x] 関数とスコープ
+- [x] 関数とthis 
+- [x] クラス
+- [x] 例外処理
+- [x] 非同期処理:Promise/Async Function　：　https://jsprimer.net/basic/async/#promise-status　：重要
 - [ ] Map/Set
 - [ ] JSON
 - [ ] Date
