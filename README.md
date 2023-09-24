@@ -36,38 +36,38 @@ memoするのはいいけど後で読み返せないので
 - [x] 関数とthis 
 - [x] クラス
 - [x] 例外処理
-- [x] 非同期処理:Promise/Async Function　：　https://jsprimer.net/basic/async/#promise-status　：重要
-- [ ] Map/Set
-- [ ] JSON
-- [ ] Date
-- [ ] Math
-- [ ] ECMAScriptモジュール
-- [ ] ECMAScript
-- [ ] 第一部: おわりに
-- [ ] 第二部: 応用編（ユースケース）
-- [ ] アプリケーション開発の準備
-- [ ] Ajax通信
-- [ ] エントリーポイント
-- [ ] HTTP通信
-- [ ] データを表示する
-- [ ] Promiseを活用する
-- [ ] Node.jsでCLIアプリ
-- [ ] Node.jsでHello World
-- [ ] コマンドライン引数を処理する
-- [ ] ファイルを読み込む
-- [ ] MarkdownをHTMLに変換する
-- [ ] ユニットテストを記述する
-- [ ] Todoアプリ
-- [ ] エントリーポイント
-- [ ] アプリの構成要素
-- [ ] Todoアイテムの追加を実装する
-- [ ] イベントとモデル
-- [ ] Todoアイテムの更新と削除を実装する
-- [ ] Todoアプリのリファクタリング
-- [ ] 付録: 参考リンク集
-- [ ] 付録: JavaScriptチートシート
-- [ ] おわりに
-- [ ] Published with HonKit
-- [ ] JavaScript Primer
-- [ ] JavaScript Primer
-- [ ] Search words
+- [x] 非同期処理:Promise/Async Function　：　https://jsprimer.net/basic/async/#promise-status　：参考図書
+- [x] Map/Set
+- [x] JSON : https://www.json.org/json-ja.html 参考図書
+- [x] Date
+- [x] Math
+- [x] ECMAScriptモジュール
+- [x] ECMAScript
+- [x] 第一部: おわりに
+- [x] 第二部: 応用編（ユースケース）
+- [x] アプリケーション開発の準備
+- [x] Ajax通信
+- [x] エントリーポイント
+- [x] HTTP通信
+- [x] データを表示する
+- [x] Promiseを活用する
+- [x] Node.jsでCLIアプリ
+- [x] Node.jsでHello World
+- [x] コマンドライン引数を処理する
+- [x] ファイルを読み込む
+- [x] MarkdownをHTMLに変換する
+- [x] ユニットテストを記述する
+- [x] Todoアプリ
+- [x] エントリーポイント
+- [x] アプリの構成要素
+- [x] Todoアイテムの追加を実装する
+- [x] イベントとモデル
+- [x] Todoアイテムの更新と削除を実装する
+- [x] Todoアプリのリファクタリング
+- [x] 付録: 参考リンク集
+- [x] 付録: JavaScriptチートシート
+- [x] おわりに
+- [x] Published with HonKit
+- [x] JavaScript Primer
+- [x] JavaScript Primer
+- [x] Search words
